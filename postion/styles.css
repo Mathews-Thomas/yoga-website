@@ -1,0 +1,40 @@
+.main{
+    width: 600px;
+    height: 350px;
+    margin:auto;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+ color: white;
+ font-weight: bold;
+}
+.topleft{
+    position: absolute;
+    left:5px;;
+    top:auto;
+}
+.topright{
+    position: absolute;
+     right:5px;
+     top:auto;
+}
+.bottomleft{
+    position: absolute;
+    left:5px;
+    bottom :5px;
+}
+.bottomright{
+    position: absolute;
+    right:5px;
+    bottom: 5px;
+}
+.center{
+    position: absolute;
+    left:40%;
+    top:40%;
+    
+}
